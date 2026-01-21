@@ -463,7 +463,7 @@ body{
 }
 
 
-/*navbar*/
+
 @media (max-width:768px){
   .menu-icon{
     display: block;
@@ -493,7 +493,7 @@ body{
 }
 
 
-/**/
+
 @media (max-width: 992px) {
   .hero-title {
     font-size: 2.8rem;
@@ -504,7 +504,7 @@ body{
   }
 }
 
-/* Mobile */
+
 @media (max-width: 576px) {
   .hero {
     padding-top: 100px;
@@ -525,7 +525,7 @@ body{
     gap: 20px;
   }
 }
-/*section*/
+
 @media (max-width: 900px) {
   .features-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -553,14 +553,14 @@ body{
 }
 
 
-/*features video!>*/
+
 @media (min-width: 1024px) {
   .episode-grid {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-/*host*/
+
 @media (max-width: 768px) {
   .host-card {
     flex-direction: column;
@@ -576,7 +576,7 @@ body{
   }
 }
 
-/*footer!>*/
+
 
 @media (max-width: 768px) {
   .logo {
@@ -589,7 +589,6 @@ body{
   }
 }
 
-/* Mobile */
 @media (max-width: 480px) {
   .footer {
     padding: 60px 15px;
